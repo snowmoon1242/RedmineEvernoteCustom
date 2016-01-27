@@ -1,0 +1,2 @@
+# RedmineEvernoteCustom
+Redmineのメール通知機能でEvernoteのノート登録用メールアドレスに投げる際にノートブック指定
